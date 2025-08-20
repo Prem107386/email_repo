@@ -31,7 +31,6 @@ steps:
     orchestratorConnection: 'Des_Ser'
     packagesPath: '$(Build.ArtifactStagingDirectory)\Output'
     folderName: 'Prem'
-    processNames: 'Email'
     processName: 'Testing_Email_'
 
 
